@@ -64,10 +64,3 @@ The system will return:
 ## 📝 Notes
 - The current setup supports **Python, C++, and Java**.  
 - You can modify `ai_solutions/q1.json` to test with different AI samples.
-
----
-
-## ✅ To-do (next steps)
-- [ ] Store embeddings and AST tokens in a database  
-- [ ] Add behavioral analysis (e.g., time taken, edit distance)  
-- [ ] Extend support to more languages  
